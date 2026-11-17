@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conta Giorni</string>
+    <string name="widget_desc">I giorni che mancano (o sono passati) a un tuo evento, con foto, frase e musica.</string>
+</resources>
